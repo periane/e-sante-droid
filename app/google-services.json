@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "131388370728",
+    "firebase_url": "https://esant-c5e55.firebaseio.com",
+    "project_id": "esant-c5e55",
+    "storage_bucket": "esant-c5e55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131388370728:android:bd9682f926ee29d5",
+        "android_client_info": {
+          "package_name": "com.example.peria.e_sant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131388370728-dc2b2vq3sspegdcbp0bk4klppt07d1tv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.peria.e_sant",
+            "certificate_hash": "cab4e1c6e340238122103095e5af780036f80be9"
+          }
+        },
+        {
+          "client_id": "131388370728-9nvgu2f4e247ii2r2s2pq66nei2oq6ks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbRXIAMgt4pXBd2O56njC2_4h8AzkCDzA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131388370728-9nvgu2f4e247ii2r2s2pq66nei2oq6ks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

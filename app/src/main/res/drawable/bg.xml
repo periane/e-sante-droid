@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <grandient
+        android:startColor="#47d1e1"
+     android:centerColor="#39bece"
+     android:endColor="#2095a3"
+        android:angle="90"/>
+</selector>
