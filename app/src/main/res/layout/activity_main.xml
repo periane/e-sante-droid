@@ -34,12 +34,12 @@
         android:layout_alignBottom="@+id/imageView"/>
 
     <ImageView
-        android:layout_width="40dp"
-        android:layout_height="55dp"
+        android:layout_width="58dp"
+        android:layout_height="81dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentBottom="true"
         android:layout_marginStart="17dp"
-        android:layout_marginBottom="494dp"
+        android:layout_marginBottom="468dp"
         android:src="@drawable/p" />
 
     <HorizontalScrollView
@@ -86,7 +86,7 @@
         android:layout_marginBottom="140dp" >
 
         <ImageView
-            android:id="@+id/imageView2"
+            android:id="@+id/image1"
             android:layout_width="match_parent"
             android:layout_height="74dp"
             app:srcCompat="@drawable/ic_person_add_black_24dp" />
@@ -106,7 +106,7 @@
         android:layout_marginBottom="138dp" >
 
         <ImageView
-            android:id="@+id/imageView3"
+            android:id="@+id/image2"
             android:layout_width="163dp"
             android:layout_height="73dp"
             app:srcCompat="@drawable/profile" />
@@ -121,7 +121,7 @@
         android:layout_marginBottom="0dp">
 
         <ImageView
-            android:id="@+id/imageView4"
+            android:id="@+id/image3"
             android:layout_width="match_parent"
             android:layout_height="75dp"
             app:srcCompat="@drawable/carnette" />

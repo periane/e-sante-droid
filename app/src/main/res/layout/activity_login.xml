@@ -34,7 +34,7 @@
         android:textSize="20sp"
         android:textStyle="bold"
         android:layout_marginTop="238dp"
-        android:text="Identifiant"
+        android:hint="Identifiant"
         android:background="@drawable/cercleform"/>
 
     <EditText
@@ -49,7 +49,7 @@
         android:textStyle="bold"
         android:background="@drawable/cercleform"
         android:gravity="center"
-        android:text="Mot de passe" />
+        android:hint="Mot de passe" />
 
 
     <Button

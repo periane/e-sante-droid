@@ -21,14 +21,14 @@
 
     </LinearLayout>
 
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="185dp"
-        android:layout_height="37dp"
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="188dp"
+        android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginStart="101dp"
-        android:layout_marginBottom="270dp"
+        android:layout_marginStart="102dp"
+        android:layout_marginBottom="294dp"
         android:gravity="center"
         android:text="Connexion"
         android:textColor="#000"
@@ -41,7 +41,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="254dp"
+        android:layout_marginTop="293dp"
         android:gravity="center"
         android:text="ou"
         android:textColor="#000"
